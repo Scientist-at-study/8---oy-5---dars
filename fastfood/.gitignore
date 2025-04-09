@@ -1,0 +1,15 @@
+db.sqlite3
+
+# Python кэш
+__pycache__/
+*.py[cod]
+
+*.log
+
+.env
+
+*/migrations/
+!*/migrations/__init__.py
+
+.idea/
+.vscode/
